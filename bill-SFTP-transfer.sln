@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bill-SFTP-transfer", "bill-SFTP-transfer\bill-SFTP-transfer.csproj", "{EBD3D5BD-5095-4E5C-8851-8591C58041FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD3D5BD-5095-4E5C-8851-8591C58041FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD3D5BD-5095-4E5C-8851-8591C58041FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD3D5BD-5095-4E5C-8851-8591C58041FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD3D5BD-5095-4E5C-8851-8591C58041FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A0CA96-A625-4642-A8B3-AB4B20CEA93E}
+	EndGlobalSection
+EndGlobal
